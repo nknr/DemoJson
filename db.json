@@ -10,5 +10,34 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "locations":[
+{
+	"address":"Nehru Yuva Kendra, Sector - 11, Noida",
+	"latitude":28.600629,
+	"logitude":77.3394123,
+},
+{
+	"address":"Metro Hospital",
+	"latitude":28.600629,
+	"logitude":77.3394123,
+},
+{
+	"address":"South Indian Restaurant",
+	"latitude":28.600629,
+	"logitude":77.3394123,
+},{
+	"address":"Shri Harnek Singh Rai Smriti Park",
+	"latitude":28.600629,
+	"logitude":77.3394123,
+},{
+	"address":"South Indian Restaurant",
+	"latitude":28.600629,
+	"logitude":77.3394123
+},{
+	"address":"One Dental Clinic Noida (Gold Medalist, MAMC | Dr. Gazal Agarwal)",
+	"latitude":28.600629,
+	"logitude":77.3394123
+},
+]
 }
