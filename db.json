@@ -26,37 +26,36 @@
 	"profile": {
 		"name": "typicode"
 	},
-	"locations": [
-{
-	"address":"Nehru Yuva Kendra, Sector - 11, Noida",
-	"latitude":28.5598404,
-	"logitude":77.3360493
-},
-{
-	"address":"IX Designs",
-	"latitude":28.5581119,
-	"logitude":77.3345727
-},
-{
-	"address":"Mother Dairy Booth",
-	"latitude":28.5584723,
-	"logitude":77.3343259
-},{
-	"address":"Laxman Park",
-	"latitude":28.5585383,
-	"logitude":77.3344251
-},{
-	"address":"Botanical Garden metro station",
-	"latitude":28.5624254,
-	"logitude":77.3320916
-},{
-	"address":"Sharda University",
-	"latitude":28.4727538,
-	"logitude":77.4798516
-},{
-	"address":"Geton infotech solution",
-	"latitude":28.583805,
-	"logitude":77.3136303
-}
-]
+	"locations": [{
+			"address": "Nehru Yuva Kendra, Sector - 11, Noida",
+			"latitude": 28.5598404,
+			"logitude": 77.3360493
+		},
+		{
+			"address": "IX Designs",
+			"latitude": 28.5581119,
+			"logitude": 77.3345727
+		},
+		{
+			"address": "Mother Dairy Booth",
+			"latitude": 28.5584723,
+			"logitude": 77.3343259
+		}, {
+			"address": "Laxman Park",
+			"latitude": 28.5585383,
+			"logitude": 77.3344251
+		}, {
+			"address": "Botanical Garden metro station",
+			"latitude": 28.5624254,
+			"logitude": 77.3320916
+		}, {
+			"address": "Sharda University",
+			"latitude": 28.4727538,
+			"logitude": 77.4798516
+		}, {
+			"address": "Geton infotech solution",
+			"latitude": 28.583805,
+			"logitude": 77.3136303
+		}
+	]
 }
